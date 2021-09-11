@@ -6,4 +6,10 @@ public class DateConverter {
         int index = gregorian.getIndex();
         return new IfcDate(year, index);
     }
+
+    public static GregorianDate convert(IfcDate ifc) {
+        int year = ifc.getYear();
+        int index = ifc.getIndex();
+        return new GregorianDate(year, index);
+    }
 }
