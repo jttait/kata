@@ -6,6 +6,7 @@
 - GreatCircle: https://kodekata.net/greatcircle.html
 - Hangman: https://kodekata.net/hangman.html
 - IntegerToWords: https://kodekata.net/integertowords.html
+- InternationalFixedCalendar: https://kodekata.net/internationalfixedcalendar.html
 - MarsRover: https://kodekata.net/marsrover.html
 - PasswordStrength: https://kodekata.net/passwordstrength.html
 - PokerHands: https://kodekata.net/pokerhands.html
