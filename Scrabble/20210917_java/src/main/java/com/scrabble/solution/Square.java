@@ -7,8 +7,8 @@ public enum Square {
     DOUBLE_LETTER_SCORE(2, 1),
     NORMAL(1, 1);
 
-    private int letterMultiplier;
-    private int wordMultiplier;
+    private final int letterMultiplier;
+    private final int wordMultiplier;
 
     Square(int letterMultiplier, int wordMultiplier) {
         this.letterMultiplier = letterMultiplier;

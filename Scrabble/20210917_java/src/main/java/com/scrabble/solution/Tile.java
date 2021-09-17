@@ -28,7 +28,7 @@ public enum Tile {
     Y(4),
     Z(10);
 
-    private int value;
+    private final int value;
 
     Tile(int value) {
         this.value = value;

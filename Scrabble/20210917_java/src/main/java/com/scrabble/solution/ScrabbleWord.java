@@ -5,7 +5,7 @@ import java.util.List;
 
 public class ScrabbleWord {
 
-    private List<ScrabbleLetter> letters;
+    private final List<ScrabbleLetter> letters;
 
     ScrabbleWord() {
         this.letters = new ArrayList<>();
