@@ -10,6 +10,7 @@
 - MarsRover: https://kodekata.net/marsrover.html
 - PasswordStrength: https://kodekata.net/passwordstrength.html
 - PokerHands: https://kodekata.net/pokerhands.html
+- Scrabble: https://kodekata.net/scrabble.html
 - ShoppingBasket: https://kodekata.net/shoppingbasket.html
 - TenPinBowling: https://kodekata.net/tenpinbowling.html
 - WordWrap: https://kodekata.net/wordwrap.html
