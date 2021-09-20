@@ -1,5 +1,6 @@
 # Kata
 
+- BinarySearch: https://kodekata.net/binarysearch.html
 - CoinChange: https://kodekata.net/coinchange.html
 - Counterstrings: https://kodekata.net/counterstrings.html
 - FizzBuzz: https://kodekata.net/fizzbuzz.html
