@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: 20211016_java
