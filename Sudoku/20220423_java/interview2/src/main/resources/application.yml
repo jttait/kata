@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: interview2
+netty:
+  default:
+    allocator:
+      max-order: 3
